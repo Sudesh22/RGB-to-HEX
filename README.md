@@ -1,6 +1,6 @@
 # RGB-to-HEX 🎨
 
-It is a Python based Tkinter GUI Application that can convert a given Colour sequence from RGB to HEX and Vice versa as well as show the visual output of the color in preview section
+It is a Python based Tkinter GUI Application that can convert a given Colour sequence from RGB to HEX and Vice versa as well as show the visual output of the color in preview pane
 
 ## The Need
 RGB and Hex Colour codes have their unique advantages. But sometimes while designing a website Hex Colours are highly used due to their very uniform and compactness.

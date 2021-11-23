@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.title("RGB to HEX Converter V0.1")
-root.geometry("300x300")
+root.geometry("310x310")
 
 def hex_(rgb):
     c_list = rgb.split(',')
